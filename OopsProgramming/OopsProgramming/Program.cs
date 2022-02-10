@@ -4,6 +4,6 @@ using OopsProgramming;
 Console.WriteLine("Hello, World!");
 
 InventoryManagement inventoryManagement = new InventoryManagement();
-inventoryManagement.ReadData(@"C:\Users\Kunal\OopsProgramming\OopsProgramming\Inventory.json");
+inventoryManagement.ReadData(@"C:\Users\Kunal\OopsPrograms\OopsProgramming\OopsProgramming\Inventory.json");
 Console.ReadKey();
 
